@@ -19,3 +19,9 @@ Most of what we need can be found at [Scikit-learn](http://scikit-learn.org/stab
 
 Other helpful things go here.
 
+## OUTLINE
+The tutorials are meant to provide all the of examples and links you need
+1. Basic introduction to python, numpy, and matplotlib
+1. Generating, loading, and browsing data
+1. Assessing classifiers
+1. Decision Trees
