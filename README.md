@@ -19,7 +19,8 @@ Most of what we need can be found at [Scikit-learn](http://scikit-learn.org/stab
 
 My favorite other references are:
 * [The Whirlwind Tour of Python](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
-* [Python Data Science Handbook](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/no* [Scikit-learn Presentations](http://scikit-learn.org/stable/presentations.html)
+* [Python Data Science Handbook](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) 
+* [Scikit-learn Presentations](http://scikit-learn.org/stable/presentations.html)
 
 tebooks/Index.ipynb)
 
