@@ -22,8 +22,6 @@ My favorite other references are:
 * [Python Data Science Handbook](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) 
 * [Scikit-learn Presentations](http://scikit-learn.org/stable/presentations.html)
 
-tebooks/Index.ipynb)
-
 
 ## OUTLINE
 The tutorials are meant to provide all the of examples and links you need
@@ -36,4 +34,5 @@ The tutorials are meant to provide all the of examples and links you need
    * [2-2 Built-in Datasets](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%202-2.ipynb)
    * [2-3 Loading a CSV file](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%202-3.ipynb)
 3. Assessing classifiers
+   * [3-1 Metrics and Confusion Matrices](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-1.ipynb)
 4. Decision Trees
