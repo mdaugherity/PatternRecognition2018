@@ -35,4 +35,5 @@ The tutorials are meant to provide all the of examples and links you need
    * [2-3 Loading a CSV file](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%202-3.ipynb)
 3. Assessing classifiers
    * [3-1 Metrics and Confusion Matrices](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-1.ipynb)
+   * [3-2 ROC Curves](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-2.ipynb)
 4. Decision Trees
