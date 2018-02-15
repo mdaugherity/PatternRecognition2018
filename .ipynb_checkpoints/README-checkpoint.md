@@ -19,8 +19,9 @@ Most of what we need can be found at [Scikit-learn](http://scikit-learn.org/stab
 
 My favorite other references are:
 * [The Whirlwind Tour of Python](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
-* [Python Data Science Handbook](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) 
-* [Scikit-learn Presentations](http://scikit-learn.org/stable/presentations.html)
+* [Python Data Science Handbook](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/no* [Scikit-learn Presentations](http://scikit-learn.org/stable/presentations.html)
+
+tebooks/Index.ipynb)
 
 
 ## OUTLINE
@@ -34,6 +35,4 @@ The tutorials are meant to provide all the of examples and links you need
    * [2-2 Built-in Datasets](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%202-2.ipynb)
    * [2-3 Loading a CSV file](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%202-3.ipynb)
 3. Assessing classifiers
-   * [3-1 Metrics and Confusion Matrices](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-1.ipynb)
-   * [3-2 ROC Curves](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-2.ipynb)
 4. Decision Trees

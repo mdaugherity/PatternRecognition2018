@@ -1,0 +1,29 @@
+name,pclass,sex,age,fare
+"Allison, Master. Hudson Trevor",1,male,0.92,151.55
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",1,female,18,227.525
+"Baclini, Miss. Helene Barbara",3,female,0.75,19.2583
+"Braund, Mr. Lewis Richard",3,male,29,7.0458
+"Carlsson, Mr. Frans Olof",1,male,33,5
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",1,female,76,78.85
+"Frolicher-Stehli, Mr. Maxmillian",1,male,60,79.2
+"Gracie, Col. Archibald IV",1,male,53,28.5
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",3,female,22,12.2875
+"Icard, Miss. Amelie",1,female,38,80
+"Jalsevac, Mr. Ivan",3,male,29,7.8958
+"Kirkland, Rev. Charles Leonard",2,male,57,12.35
+"Montvila, Rev. Juozas",2,male,27,13
+"Nakid, Mr. Sahid",3,male,20,15.7417
+"Robins, Mr. Alexander A",3,male,50,14.5
+"Ross, Mr. John Hugo",1,male,36,40.125
+"Sandstrom, Miss. Beatrice Irene",3,female,1,16.7
+"Seward, Mr. Frederic Kimber",1,male,34,26.55
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",2,female,27,21
+"Daugherity, Michael",1,male,38,6
+"Byrd, Reuben",2,male,21,8
+"Carstens, Paul",3,male,21,10
+"Mulder, Samuel",1,male,20,12
+"Shudde, Rachael",2,female,21,14
+"Shurtz, Kevin",3,male,21,16
+"Ter Kuile, Anna",1,female,21,18
+"Werner, Preston",2,male,22,20
+"Williams, Matthew",3,male,20,22
