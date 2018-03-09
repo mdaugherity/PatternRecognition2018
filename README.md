@@ -37,8 +37,8 @@ The tutorials are meant to provide all the of examples and links you need
    * [3-1 Metrics and Confusion Matrices](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-1.ipynb)
    * [3-2 ROC Curves](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-2.ipynb)
 4. Decision Trees
-  * [4-1 Trees](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%204-1.ipynb)
+   * [4-1 Trees](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%204-1.ipynb)
 5. Nearest Neighbors
-  * [5 KNN](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%205.ipynb)
+   * [5 KNN](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%205.ipynb)
 6. Linear Models
-  * [6 SVC, SGD, and LogReg](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%206.ipynb)
+   * [6 SVC, SGD, and LogReg](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%206.ipynb)
