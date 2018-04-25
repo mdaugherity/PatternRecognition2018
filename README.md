@@ -21,6 +21,7 @@ My favorite other references are:
 * [The Whirlwind Tour of Python](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
 * [Python Data Science Handbook](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) 
 * [Scikit-learn Presentations](http://scikit-learn.org/stable/presentations.html)
+* [Machine Learning in Python with scikit-learn tutorials by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 
 
 ## OUTLINE
@@ -42,3 +43,5 @@ The tutorials are meant to provide all the of examples and links you need
    * [5 KNN](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%205.ipynb)
 6. Linear Models
    * [6 SVC, SGD, and LogReg](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%206.ipynb)
+7. Neural Network
+   * [7 Neural Network (MLP) Classifier](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%207.ipynb)
