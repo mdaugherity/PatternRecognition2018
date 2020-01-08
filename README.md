@@ -23,27 +23,24 @@ My favorite other references are:
 * [Scikit-learn Presentations](http://scikit-learn.org/stable/presentations.html)
 * [Machine Learning in Python with scikit-learn tutorials by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 
-## TEST
-[AAAAAAA](Tutorial%201-1.ipynb)
-
 ## OUTLINE
 The tutorials are meant to provide all the of examples and links you need
 1. Basic introduction to python, numpy, and matplotlib
-   * [1-1 Python Basics](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%201-1.ipynb)
-   * [1-2 Numpy](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%201-2.ipynb)
-   * [1-3 Matplotlibs](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%201-3.ipynb)
+   * [1-1 Python Basics](Tutorial%201-1.ipynb)
+   * [1-2 Numpy](Tutorial%201-2.ipynb)
+   * [1-3 Matplotlibs](Tutorial%201-3.ipynb)
 2. Generating, loading, and browsing data
-   * [2-1 Generating and plotting](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%202-1.ipynb)
-   * [2-2 Built-in Datasets](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%202-2.ipynb)
-   * [2-3 Loading a CSV file](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%202-3.ipynb)
+   * [2-1 Generating and plotting](Tutorial%202-1.ipynb)
+   * [2-2 Built-in Datasets](Tutorial%202-2.ipynb)
+   * [2-3 Loading a CSV file](Tutorial%202-3.ipynb)
 3. Assessing classifiers
-   * [3-1 Metrics and Confusion Matrices](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-1.ipynb)
-   * [3-2 ROC Curves](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%203-2.ipynb)
+   * [3-1 Metrics and Confusion Matrices](Tutorial%203-1.ipynb)
+   * [3-2 ROC Curves](Tutorial%203-2.ipynb)
 4. Decision Trees
-   * [4-1 Trees](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%204-1.ipynb)
+   * [4-1 Trees](Tutorial%204-1.ipynb)
 5. Nearest Neighbors
-   * [5 KNN](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%205.ipynb)
+   * [5 KNN](Tutorial%205.ipynb)
 6. Linear Models
-   * [6 SVC, SGD, and LogReg](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%206.ipynb)
+   * [6 SVC, SGD, and LogReg](Tutorial%206.ipynb)
 7. Neural Network
-   * [7 Neural Network (MLP) Classifier](https://github.com/mdaugherity/PatternRecognition/blob/master/Tutorial%207.ipynb)
+   * [7 Neural Network (MLP) Classifier](Tutorial%207.ipynb)
